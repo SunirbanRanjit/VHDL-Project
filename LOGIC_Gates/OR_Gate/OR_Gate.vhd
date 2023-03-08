@@ -5,9 +5,9 @@ use IEEE.std_logic_1164.all;
 
 entity OR_Gate is
 
-    port(A : in std_logic;      -- AND gate input
-         B : in std_logic;      -- AND gate input
-         Y : out std_logic);    -- AND gate output
+    port(A : in std_logic;      -- OR gate input
+         B : in std_logic;      -- OR gate input
+         Y : out std_logic);    -- OR gate output
 
 end OR_Gate;
 
